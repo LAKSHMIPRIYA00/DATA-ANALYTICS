@@ -1,0 +1,27 @@
+student details
+student details
+student details
+student details
+alex : 87
+arum : 59
+rakesh : 92
+suresh : 99
+brijesh : 67
+
+student details
+ali : 59
+ansh : 64
+anmol : 70
+
+student details
+alex : 87
+arum : 59
+rakesh : 92
+suresh : 99
+brijesh : 67
+
+student details
+ali : 59
+ansh : 64
+anmol : 70
+
